@@ -1,6 +1,4 @@
-<center><img src="images/ifnmg.jpg" width="200" /></center>
-
-#  🚀 [up2date](#)
+#  🚀 up2date
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -10,15 +8,15 @@ Inicialmente criado para o SGE no [IFNMG - Campus Januária](https://ifnmg.edu.b
 
 # 🗂️ Índice
 
-- 1. [Funcionalidades](funcionalidades)
-- 2. [Requisitos](requisitos)
-- 3. [Instalação](instalacao)
-   - 3.1. [Configurações Iniciais](confiniciais)
-   - 3.2. [Configurando o RClone](confrclone)
-   - 3.3. [Executando o Script](executandoscript)
-   - 3.4. [Programando datas e horários para o backup](datasehoras)
-        -  3.4.1. [Crontab](crontab)
-        -  3.4.2. [Adicionando o script ao Crontab](addscript)
+- 1. [Funcionalidades](#funcionalidades)
+- 2. [Requisitos](#requisitos)
+- 3. [Instalação](#instalacao)
+   - 3.1. [Configurações Iniciais](#confiniciais)
+   - 3.2. [Configurando o RClone](#confrclone)
+   - 3.3. [Executando o Script](#executandoscript)
+   - 3.4. [Programando datas e horários para o backup](#datasehoras)
+        -  3.4.1. [Crontab](#crontab)
+        -  3.4.2. [Adicionando o script ao Crontab](#addscript)
 
 # <a href="#funcionalidades">⚙️ Funcionalidades</a>
 
